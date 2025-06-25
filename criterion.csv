@@ -1,0 +1,628 @@
+﻿id,display_id,name,parent_name,description,parent_id
+1,,NSQHS Standards v2,,,
+2,,Clinical Governance,NSQHS Standards v2,,1
+3,,Blood Management,NSQHS Standards v2,,1
+4,,Medication Safety,NSQHS Standards v2,,1
+5,,Preventing and controlling infection,NSQHS Standards v2,,1
+6,,Recognising and responding to acute deterioration,NSQHS Standards v2,,1
+7,,Comprehensive care,NSQHS Standards v2,,1
+8,,Communicating for safety,NSQHS Standards v2,,1
+9,,Partnering with consumers,NSQHS Standards v2,,1
+10,,"Governance, leadership and culture",Clinical Governance,,2
+11,,"Governance, leadership and culture","Governance, leadership and culture",,10
+12,,1.1,"Governance, leadership and culture","The governing body:
+a. Provides leadership to develop a culture of safety and quality improvement, and satisfies itself that this culture exists within the organisation
+b. Provides leadership to ensure partnering with patients, carers and consumers
+c. Sets priorities and strategic directions for safe and high-quality clinical care, and ensures that these are communicated effectively to the workforce and the community
+d. Endorses the organisation’s clinical governance framework
+e. Ensures that roles and responsibilities are clearly defined for the governing body, management, clinicians and the workforce 
+f. Monitors the action taken as a result of analyses of clinical incidents
+g. Reviews reports and monitors the organisation’s progress on safety and quality performance",10
+13,,1.2,"Governance, leadership and culture",The governing body ensures that the organisation’s safety and quality priorities address the specific health needs of Aboriginal and Torres Strait Islander people,10
+14,,Organisational leadership,"Governance, leadership and culture",,10
+15,,1.3,Organisational leadership,"The health service organisation establishes and maintains a clinical governance framework, and uses the processes within the framework to drive improvements in safety and quality",14
+16,,1.4,Organisational leadership,The health service organisation implements and monitors strategies to meet the organisation’s safety and quality priorities for Aboriginal and Torres Strait Islander people,14
+17,,1.5,Organisational leadership,The health service organisation considers the safety and quality of health care for patients in its business decision-making,14
+18,,Clinical leadership,"Governance, leadership and culture",,10
+19,,1.6,Clinical leadership,"Clinical leaders support clinicians to:
+a. Understand and perform their delegated safety and quality roles and responsibilities
+b. Operate within the clinical governance framework to improve the safety and quality of health care for patients",18
+20,,Patient safety and quality systems,Clinical Governance,,2
+21,,Policies and procedures,Patient safety and quality systems,,20
+22,,1.7,Policies and procedures,"The health service organisation uses a risk management approach to:
+a. Set out, review, and maintain the currency and effectiveness of, policies, procedures and protocols
+b. Monitor and take action to improve adherence to policies, procedures and protocols
+c. Review compliance with legislation, regulation and jurisdictional requirements",21
+23,,Measurement and quality improvement ,Patient safety and quality systems,,20
+24,,1.8,Measurement and quality improvement ,"The health service organisation uses organisation-wide quality improvement systems that:
+a. Identify safety and quality measures, and monitor and report performance and outcomes
+b. Identify areas for improvement in safety and quality
+c. Implement and monitor safety and quality improvement strategies
+d. Involve consumers and the workforce in the review of safety and quality performance and systems",23
+25,,1.9,Measurement and quality improvement ,"The health service organisation ensures that timely reports on safety and quality systems and performance are provided to:
+a. The governing body
+b. The workforce
+c. Consumers and the local community
+d. Other relevant health service organisations",23
+26,,Risk management,Patient safety and quality systems,,20
+27,,1.1,Risk management,"The health service organisation:
+a. Identifies and documents organisational risks
+b. Uses clinical and other data collections to support risk assessments
+c. Acts to reduce risks
+d. Regularly reviews and acts to improve the effectiveness of the risk management system
+e. Reports on risks to the workforce and consumers
+f. Plans for, and manages, internal and external emergencies and disasters",26
+28,,Incident management systems and open disclosure,Patient safety and quality systems,,20
+29,,1.11,Incident management systems and open disclosure,"The health service organisation has organisation-wide incident management and investigation systems, and:
+a. Supports the workforce to recognise and report incidents
+b. Supports patients, carers and families to communicate concerns or incidents
+c. Involves the workforce and consumers in the review of incidents
+d. Provides timely feedback on the analysis of incidents to the governing body, the workforce and consumers
+e. Uses the information from the analysis of incidents to improve safety and quality
+f. Incorporates risks identified in the analysis of incidents into the risk management system
+g. Regularly reviews and acts to improve the effectiveness of the incident management and investigation systems",28
+30,,1.12,Incident management systems and open disclosure,"The health service organisation:
+a. Uses an open disclosure program that is consistent with the Australian Open Disclosure Framework
+b. Monitors and acts to improve the effectiveness of open disclosure processes",28
+31,,Feedback and complaints management ,Patient safety and quality systems,,20
+32,,1.13,Feedback and complaints management ,"The health service organisation:
+a. Has processes to seek regular feedback from patients, carers and families about their experiences and outcomes of care
+b. Has processes to regularly seek feedback from the workforce on their understanding and use of the safety and quality systems
+c. Uses this information to improve safety and quality systems",31
+33,,1.14,Feedback and complaints management ,"The health service organisation has an organisation-wide complaints management system, and:
+a. Encourages and supports patients, carers and families, and the workforce to report complaints
+b. Involves the workforce and consumers in the review of complaints
+c. Resolves complaints in a timely way
+d. Provides timely feedback to the governing body, the workforce and consumers on the analysis of complaints and actions taken
+e. Uses information from the analysis of complaints to inform improvements in safety and quality systems
+f. Records the risks identified from the analysis of complaints in the risk management system
+g. Regularly reviews and acts to improve the effectiveness of the complaints management system",31
+34,,Diversity and high-risk groups,Patient safety and quality systems,,20
+35,,1.15,Diversity and high-risk groups,"The health service organisation:
+a. Identifies the diversity of the consumers using its services
+b. Identifies groups of patients using its services who are at higher risk of harm
+c. Incorporates information on the diversity of its consumers and higher-risk groups into the planning and delivery of care",34
+36,,Healthcare records ,Patient safety and quality systems,,20
+37,,1.16,Healthcare records ,"The health service organisation has healthcare record systems that:
+a. Make the healthcare record available to clinicians at the point of care
+b. Support the workforce to maintain accurate and complete healthcare records
+c. Comply with security and privacy regulations
+d. Support systematic audit of clinical information
+e. Integrate multiple information systems, where they are used",36
+38,,1.17,Healthcare records ,"The health service organisation works towards implementing systems that can provide clinical information into the My Health Record system that:
+a. Are designed to optimise the safety and quality of health care for patients
+b. Use national patient and provider identifiers
+c. Use standard national terminologies",36
+39,,1.18,Healthcare records ,"The health service organisation providing clinical information into the My Health Record system has processes that:
+a. Describe access to the system by the workforce, to comply with legislative requirements
+b. Maintain the accuracy and completeness of the clinical information the organisation uploads into the system",36
+40,,Clinical performance and effectiveness,Clinical Governance,,2
+41,,Safety and quality training ,Clinical performance and effectiveness,,40
+42,,1.19,Safety and quality training ,"The health service organisation provides orientation to the organisation that describes roles and responsibilities for safety and quality for:
+a. Members of the governing body
+b. Clinicians, and any other employed, contracted, locum, agency, student or volunteer members of the organisation",41
+43,,1.2,Safety and quality training ,"The health service organisation uses its training systems to:
+a. Assess the competency and training needs of its workforce
+b. Implement a mandatory training program to meet its requirements arising from these standards
+c. Provide access to training to meet its safety and quality training needs
+d. Monitor the workforce’s participation in training",41
+44,,1.21,Safety and quality training ,The health service organisation has strategies to improve the cultural awareness and cultural competency of the workforce to meet the needs of its Aboriginal and Torres Strait Islander patients,41
+45,,Performance management,Clinical performance and effectiveness,,40
+46,,1.22,Performance management,"The health service organisation has valid and reliable performance review processes that:
+a. Require members of the workforce to regularly take part in a review of their performance
+b. Identify needs for training and development in safety and quality
+c. Incorporate information on training requirements into the organisation’s training system",45
+47,,Credentialing and scope of clinical practice,Clinical performance and effectiveness,,40
+48,,1.23,Credentialing and scope of clinical practice,"The health service organisation has processes to:
+a. Define the scope of clinical practice for clinicians, considering the clinical service capacity of the organisation and clinical services plan
+b. Monitor clinicians’ practices to ensure that they are operating within their designated scope of clinical practice
+c. Review the scope of clinical practice of clinicians periodically and whenever a new clinical service, procedure or technology is introduced or substantially altered",47
+49,,1.24,Credentialing and scope of clinical practice,"The health service organisation:
+a. Conducts processes to ensure that clinicians are credentialed, where relevant
+b. Monitors and improves the effectiveness of the credentialing process",47
+50,,Safety and quality roles and responsibilities,Clinical performance and effectiveness,,40
+51,,1.25,Safety and quality roles and responsibilities,"The health service organisation has processes to:
+a. Support the workforce to understand and perform their roles and responsibilities for safety and quality
+b. Assign safety and quality roles and responsibilities to the workforce, including locums and agency staff",50
+52,,1.26,Safety and quality roles and responsibilities,"The health service organisation provides supervision for clinicians to ensure that they can safely fulfil their designated roles, including access to after-hours advice, where appropriate",50
+53,,Evidence-based care,Clinical performance and effectiveness,,40
+54,,1.27,Evidence-based care,"The health service organisation has processes that:
+a. Provide clinicians with ready access to best-practice guidelines, integrated care pathways, clinical pathways and decision support tools relevant to their clinical practice
+b. Support clinicians to use the best available evidence, including relevant clinical care standards developed by the Australian Commission on Safety and Quality in Health Care",53
+55,,Variation in clinical practice and health outcomes,Clinical performance and effectiveness,,40
+56,,1.28,Variation in clinical practice and health outcomes,"The health service organisation has systems to:
+a. Monitor variation in practice against expected health outcomes
+b. Provide feedback to clinicians on variation in practice and health outcomes
+c. Review performance against external measures
+d. Support clinicians to take part in clinical review of their practice
+e. Use information on unwarranted clinical variation to inform improvements in safety and quality systems
+f. Record the risks identified from unwarranted clinical variation in the risk management system",55
+57,,Safe environment for the delivery of care,Clinical Governance,,2
+58,,Safe environment ,Safe environment for the delivery of care,,57
+59,,1.29,Safe environment ,"The health service organisation maximises safety and quality of care:
+a. Through the design of the environment
+b. By maintaining buildings, plant, equipment, utilities, devices and other infrastructure that are fit for purpose",58
+60,,1.3,Safe environment ,"The health service organisation:
+a. Identifies service areas that have a high risk of unpredictable behaviours and develops strategies to minimise the risks of harm for patients, carers, families, consumers and the workforce
+b. Provides access to a calm and quiet environment when it is clinically required",58
+61,,1.31,Safe environment ,The health service organisation facilitates access to services and facilities by using signage and directions that are clear and fit for purpose,58
+62,,1.32,Safe environment ,"The health service organisation admitting patients overnight has processes that allow flexible visiting arrangements to meet patients’ needs, when it is safe to do so",58
+63,,1.33,Safe environment ,The health service organisation demonstrates a welcoming environment that recognises the importance of the cultural beliefs and practices of Aboriginal and Torres Strait Islander people,58
+64,,Clinical governance and quality improvement systems to support partnering with consumers,Partnering with consumers,,9
+65,,Integrating clinical governance,Clinical governance and quality improvement systems to support partnering with consumers,,64
+66,,2.1,Integrating clinical governance,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for partnering with consumers
+b. Managing risks associated with partnering with consumers
+c. Identifying training requirements for partnering with consumers",65
+67,,Applying quality improvement systems,Clinical governance and quality improvement systems to support partnering with consumers,,64
+68,,2.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring processes for partnering with consumers
+b. Implementing strategies to improve processes for partnering with consumers
+c. Reporting on partnering with consumers",67
+69,,Partnering with patients in their own care,Partnering with consumers,,9
+70,,Healthcare rights and informed consent,Partnering with patients in their own care,,69
+71,,2.3,Healthcare rights and informed consent,"The health service organisation uses a charter of rights that is:
+a. Consistent with the Australian Charter of Healthcare Rights
+b. Easily accessible for patients, carers, families and consumers",70
+72,,2.4,Healthcare rights and informed consent,The health service organisation ensures that its informed consent processes comply with legislation and best practice,70
+73,,2.5,Healthcare rights and informed consent,"The health service organisation has processes to identify:
+a. The capacity of a patient to make decisions about their own care
+b. A substitute decision-maker if a patient does not have the capacity to make decisions for themselves",70
+74,,Sharing decisions and planning care,Partnering with patients in their own care,,69
+75,,2.6,Sharing decisions and planning care,"The health service organisation has processes for clinicians to partner with patients and/or their substitute decision-maker to plan, communicate, set goals, and make decisions about their current and future care",74
+76,,2.7,Sharing decisions and planning care,The health service organisation supports the workforce to form partnerships with patients and carers so that patients can be actively involved in their own care,74
+77,,Health literacy,Partnering with consumers,,9
+78,,Communication that supports effective partnerships,Health literacy,,77
+79,,2.8,Communication that supports effective partnerships,"The health service organisation uses communication mechanisms that are tailored to the diversity of the consumers who use its services and, where relevant, the diversity of the local community",78
+80,,2.9,Communication that supports effective partnerships,"Where information for patients, carers, families and consumers about health and health services is developed internally, the organisation involves consumers in its development and review",78
+81,,2.1,Communication that supports effective partnerships,"The health service organisation supports clinicians to communicate with patients, carers, families and consumers about health and health care so that:
+a. Information is provided in a way that meets the needs of patients, carers, families and consumers
+b. Information provided is easy to understand and use
+c. The clinical needs of patients are addressed while they are in the health service organisation
+d. Information needs for ongoing care are provided on discharge",78
+82,,Partnering with consumers in organisational design and governance,Partnering with consumers,,9
+83,,"Partnerships in healthcare governance planning, design, measurement and evaluation",Partnering with consumers in organisational design and governance,,82
+84,,2.11,"Partnerships in healthcare governance planning, design, measurement and evaluation","The health service organisation:
+a. Involves consumers in partnerships in the governance of, and to design, measure and evaluate, health care
+b. Has processes so that the consumers involved in these partnerships reflect the diversity of consumers who use the service or, where relevant, the diversity of the local community",83
+85,,2.12,"Partnerships in healthcare governance planning, design, measurement and evaluation","The health service organisation provides orientation, support and education to consumers who are partnering in the governance, design, measurement and evaluation of the organisation",83
+86,,2.13,"Partnerships in healthcare governance planning, design, measurement and evaluation",The health service organisation works in partnership with Aboriginal and Torres Strait Islander communities to meet their healthcare needs,83
+87,,2.14,"Partnerships in healthcare governance planning, design, measurement and evaluation",The health service organisation works in partnership with consumers to incorporate their views and experiences into training and education for the workforce,83
+88,,"Clinical governance and quality improvement systems are in place to prevent and control infections, and support antimicrobial stewardship and sustainable use of infection prevention and control resources",Preventing and controlling infection,,5
+89,,Integrating clinical governance ,"Clinical governance and quality improvement systems are in place to prevent and control infections, and support antimicrobial stewardship and sustainable use of infection prevention and control resources",,88
+90,,3.1,Integrating clinical governance ,"The workforce uses the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for infection prevention and control
+b. Identifying and managing risks associated with infections
+c. Implementing policies and procedures for antimicrobial stewardship
+d. Identifying and managing antimicrobial stewardship risks",89
+91,,3.2,Integrating clinical governance ,"The health service organisation:
+a. Establishes multidisciplinary teams to identify and manage risks associated with infections using the hierarchy of controls in conjunction with infection prevention and control systems
+b. Identifies requirements for, and provides the workforce with, access to training to prevent and control infections
+c. Has processes to ensure that the workforce has the capacity, skills and access to equipment to implement systems to prevent and control infections
+d. Establishes multidisciplinary teams, or processes, to promote effective antimicrobial stewardship
+e. Identifies requirements for, and provides access to, training to support the workforce to conduct antimicrobial stewardship activities
+f. Has processes to ensure that the workforce has the capacity and skills to implement antimicrobial stewardship
+g. Plans for public health and pandemic risks",89
+92,,Applying quality improvement systems,"Clinical governance and quality improvement systems are in place to prevent and control infections, and support antimicrobial stewardship and sustainable use of infection prevention and control resources",,88
+93,,3.3,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring the performance of infection prevention and control systems
+b. Implementing strategies to improve infection prevention and control systems
+c. Reporting to the governance body, the workforce, patients and other relevant groups on the performance of infection prevention and control systems
+d. Monitoring the effectiveness of the antimicrobial stewardship program
+e. Implementing strategies to improve antimicrobial stewardship outcomes
+f. Reporting to the governance body, the workforce, patients and other relevant groups on antimicrobial stewardship outcomes
+g. Supporting and monitoring the safe and sustainable use of infection prevention and control resources",67
+94,,Partnering with consumers,"Clinical governance and quality improvement systems are in place to prevent and control infections, and support antimicrobial stewardship and sustainable use of infection prevention and control resources",,88
+95,,3.4,Partnering with consumers,"Clinicians use organisational processes consistent with the Partnering with Consumers Standard when assessing risks and preventing and managing infections, and implementing the antimicrobial stewardship program to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+96,,Surveillance,"Clinical governance and quality improvement systems are in place to prevent and control infections, and support antimicrobial stewardship and sustainable use of infection prevention and control resources",,88
+97,,3.5,Surveillance,"The health service organisation has a surveillance strategy for infections, infection risk, and antimicrobial use and prescribing that:
+a. Incorporates national and jurisdictional information in a timely manner
+b. Collects data on healthcare-associated and other infections relevant to the size and scope of the organisation
+c. Monitors, assesses and uses surveillance data to reduce the risks associated with infections
+d. Reports surveillance data on infections to the workforce, the governing body, consumers and other relevant groups
+e. Collects data on the volume and appropriateness of antimicrobial use relevant to the size and scope of the organisation
+f. Monitors, assesses and uses surveillance data to support appropriate antimicrobial prescribing
+g. Monitors responsiveness to risks identified through surveillance
+h. Reports surveillance data on the volume and appropriateness of antimicrobial use to the workforce, the governing body, consumers and other relevant groups",96
+98,,Infection prevention and control systems,Preventing and controlling infection,,5
+99,,Standard and transmission-based precautions,Infection prevention and control systems,,98
+100,,3.6,Standard and transmission-based precautions,"The health service organisation has processes to apply standard and transmission-based precautions that are consistent with the current edition of the Australian Guidelines for the Prevention and Control of Infection in Healthcare, jurisdictional requirements, and relevant jurisdictional laws and policies, including work health and safety laws",99
+101,,3.7,Standard and transmission-based precautions,"The health service organisation has:
+a. Collaborative and consultative processes for the assessment and communication of infection risks to patients and the workforce
+b. Infection prevention and control systems, in conjunction with the hierarchy of controls, in place to reduce transmission of infections so far as is reasonably practicable
+c. Processes for the use, training, testing and fitting of personal protective equipment by the workforce
+d. Processes to monitor and respond to changes in scientific and technical knowledge about infections, relevant national or jurisdictional guidance, policy and legislation
+e. Processes to audit compliance with standard and transmissionbased precautions
+f. Processes to assess competence of the workforce in appropriate use of standard and transmission-based precautions
+g. Processes to improve compliance with standard and transmission-based precautions",99
+102,,3.8,Standard and transmission-based precautions,"Members of the workforce apply standard precautions and transmission-based precautions whenever required, and consider:
+a. Patients’ risks, which are evaluated at referral, on admission or on presentation for care, and re-evaluated during care
+b. Whether a patient has a communicable disease, or an existing or a pre-existing colonisation or infection with organisms of local or national significance
+c. Accommodation needs and patient placement to prevent and manage infection risks
+d. The risks to the wellbeing of patients in isolation
+e. Environmental control measures to reduce risk, including but not limited to heating, ventilation and water systems; work flow design; facility design; surface finishes
+f. Precautions required when a patient is moved within the facility or between external services
+g. The need for additional environmental cleaning or disinfection processes and resources
+h. The type of procedure being performed
+i. Equipment required for routine care",99
+103,,3.9,Standard and transmission-based precautions,"The health service organisation has processes to:
+a. Review data on and respond to infections in the community that may impact patients and the workforce
+b. Communicate details of a patient’s infectious status during an episode of care, and at transitions of care
+c. Provide relevant information to a patient, their family and carers about their infectious status, infection risks and the nature and duration of precautions to minimise the spread of infection",99
+104,,Hand hygiene,Infection prevention and control systems,,98
+105,,3.1,Hand hygiene,"The health service organisation has a hand hygiene program that is incorporated in its overarching infection prevention and control program as part of standard precautions and:
+a. Is consistent with the current National Hand Hygiene Initiative, and jurisdictional requirements
+b. Addresses noncompliance or inconsistency with benchmarks and the current National Hand Hygiene Initiative
+c. Provides timely reports on the results of hand hygiene compliance audits, and action in response to audits, to the workforce, the governing body, consumers and other relevant groups
+d. Uses the results of audits to improve hand hygiene compliance",104
+106,,Aseptic technique,Infection prevention and control systems,,98
+107,,3.11,Aseptic technique,"The health service organisation has processes for aseptic technique that:
+a. Identify the procedures in which aseptic technique applies
+b. Assess the competence of the workforce in performing aseptic technique
+c. Provide training to address gaps in competency
+d. Monitor compliance with the organisation’s policies on aseptic technique",106
+108,,Invasive medical devices,Infection prevention and control systems,,98
+109,,3.12,Invasive medical devices,The health service organisation has processes for the appropriate use and management of invasive medical devices that are consistent with the current edition of the Australian Guidelines for the Prevention and Control of Infection in Healthcare,108
+110,,Clean and safe environment,Infection prevention and control systems,,98
+111,,3.13,Clean and safe environment,"The health service organisation has processes to maintain a clean, safe and hygienic environment – in line with the current edition of the Australian Guidelines for the Prevention and Control of Infection in Healthcare and jurisdictional requirements – to:
+a. Respond to environmental risks, including novel infections
+b. Require cleaning and disinfection using products listed on the Australian Register of Therapeutic Goods, consistent with manufacturers’ instructions for use and recommended frequencies
+c. Provide access to training on cleaning processes for routine and outbreak situations, and novel infections
+d. Audit the effectiveness of cleaning practice and compliance with its environmental cleaning policy
+e. Use the results of audits to improve environmental cleaning processes and compliance with policy",110
+112,,3.14,Clean and safe environment,"The health service organisation has processes to evaluate and respond to infection risks for:
+a. New and existing equipment, devices and products used in the organisation
+b. Clinical and non-clinical areas, and workplace amenity areas
+c. Maintenance, repair and upgrade of buildings, equipment, furnishings and fittings
+d. Handling, transporting and storing linen
+e. Novel infections, and risks identified as part of a public health response or pandemic planning",110
+113,,Workforce screening and immunisation,Infection prevention and control systems,,98
+114,,3.15,Workforce screening and immunisation,"The health service organisation has a risk-based workforce vaccinepreventable diseases screening and immunisation policy and program that:
+a. Is consistent with the current edition of the Australian Immunisation Handbook
+b. Is consistent with jurisdictional requirements for vaccinepreventable diseases
+c. Addresses specific risks to the workforce, consumers and patients",113
+115,,Infections in the workforce,Infection prevention and control systems,,98
+116,,3.16,Infections in the workforce,"The health service organisation has risk-based processes for preventing and managing infections in the workforce that:
+a. Are consistent with the relevant state or territory work health and safety regulation and the current edition of the Australian Guidelines for the Prevention and Control of Infection in Healthcare
+b. Align with state and territory public health requirements for workforce screening and exclusion periods
+c. Manage risks to the workforce, patients and consumers, including for novel infections
+d. Promote non-attendance at work and avoiding visiting or volunteering when infection is suspected or actual
+e. Monitor and manage the movement of staff between clinical areas, care settings, amenity areas and health service organisations
+f. Manage and support members of the workforce who are required to isolate and quarantine following exposure to or acquisition of an infection
+g. Provide for outbreak monitoring, investigation and management
+h. Plan for, and manage, ongoing service provision during outbreaks and pandemics or events in which there is increased risk of transmission of infection",115
+117,,Reprocessing reusable equipment and devices,Preventing and controlling infection,,5
+118,,Reprocessing of reusable equipment and devices,Reprocessing reusable equipment and devices,,117
+119,,3.17,Reprocessing of reusable equipment and devices,"When reusable equipment and devices are used, the health service organisation has:
+a. Processes for reprocessing that are consistent with relevant national and international standards, in conjunction with manufacturers’ guidelines
+b. A traceability process for critical and semi-critical equipment, instruments and devices that is capable of identifying
+• the patient
+• the procedure
+• the reusable equipment, instruments and devices that were used for the procedure
+c. Processes to plan and manage reprocessing requirements, and additional controls for novel and emerging infections",118
+120,,Antimicrobial stewardship,Preventing and controlling infection,,5
+121,,Antimicrobial stewardship,Antimicrobial stewardship,,120
+122,,3.18,Antimicrobial stewardship,"The health service organisation has an antimicrobial stewardship program that:
+a. Includes an antimicrobial stewardship policy
+b. Provides access to, and promotes the use of, current evidence-based Australian therapeutic guidelines and resources on antimicrobial prescribing
+c. Has an antimicrobial formulary that is informed by current evidencebased Australian therapeutic guidelines and resources, and includes restriction rules and approval processes
+d. Incorporates core elements, recommendations and principles from the current Antimicrobial Stewardship Clinical Care Standard
+e. Acts on the results of antimicrobial use and appropriateness audits to promote continuous quality improvement
+",120
+123,,3.19,Antimicrobial stewardship,"The antimicrobial stewardship program will:
+a. Review antimicrobial prescribing and use
+b. Use surveillance data on antimicrobial resistance and use to support appropriate prescribing
+c. Evaluate performance of the program, identify areas for improvement, and take action to improve the appropriateness of antimicrobial prescribing and use
+d. Report to clinicians and the governing body regarding
+• compliance with the antimicrobial stewardship policy and guidance
+• areas of action for antimicrobial resistance
+• areas of action to improve appropriateness of prescribing and compliance with current evidence-based Australian therapeutic guidelines or resources on antimicrobial prescribing
+• the health service organisation’s performance over time for use and appropriateness of use of antimicrobials",120
+124,,Clinical governance and quality improvement to support medication management,Medication safety,,4
+125,,Integrating clinical governance ,Clinical governance and quality improvement to support medication management,,124
+126,,4.1,Integrating clinical governance ,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for medication management
+b. Managing risks associated with medication management
+c. Identifying training requirements for medication management",89
+127,,Applying quality improvement systems,Clinical governance and quality improvement to support medication management,,124
+128,,4.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring the effectiveness and performance of medication management
+b. Implementing strategies to improve medication management outcomes and associated processes
+c. Reporting on outcomes for medication management",67
+129,,Partnering with consumers,Clinical governance and quality improvement to support medication management,,124
+130,,4.3,Partnering with consumers,"Clinicians use organisational processes from the Partnering with Consumers Standard in medication management to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+131,,Medicines scope of clinical practice,Clinical governance and quality improvement to support medication management,,124
+132,,4.4,Medicines scope of clinical practice,"The health service organisation has processes to define and verify the scope of clinical practice for prescribing, dispensing and administering medicines for relevant clinicians",131
+133,,Documentation of patient information,Medication safety,,4
+134,,Medication reconciliation,Documentation of patient information,,133
+135,,4.5,Medication reconciliation,"Clinicians take a best possible medication history, which is documented in the healthcare record on presentation or as early as possible in the episode of care",134
+136,,4.6,Medication reconciliation,"Clinicians review a patient’s current medication orders against their best possible medication history and the documented treatment plan, and reconcile any discrepancies on presentation and at transitions of care",134
+137,,Adverse drug reactions,Documentation of patient information,,133
+138,,4.7,Adverse drug reactions,The health service organisation has processes for documenting a patient’s history of medicine allergies and adverse drug reactions in the healthcare record on presentation,137
+139,,4.8,Adverse drug reactions,The health service organisation has processes for documenting adverse drug reactions experienced by patients during an episode of care in the healthcare record and in the organisation-wide incident reporting system,137
+140,,4.9,Adverse drug reactions,"The health service organisation has processes for reporting adverse drug reactions experienced by patients to the Therapeutic Goods Administration, in accordance with its requirements",137
+141,,Continuity of medication management,Medication safety,,4
+142,,Medication review,Continuity of medication management,,141
+143,,4.1,Medication review,"The health service organisation has processes:
+a. To perform medication reviews for patients, in line with evidence and best practice
+b. To prioritise medication reviews, based on a patient’s clinical needs and minimising the risk of medication-related problems
+c. That specify the requirements for documentation of medication reviews, including actions taken as a result",142
+144,,Information for patients,Continuity of medication management,,141
+145,,4.11,Information for patients,The health service organisation has processes to support clinicians to provide patients with information about their individual medicines needs and risks,144
+146,,Provision of a medicines list,Continuity of medication management,,141
+147,,4.12,Provision of a medicines list,"The health service organisation has processes to:
+a. Generate a current medicines list and the reasons for any changes
+b. Distribute the current medicines list to receiving clinicians at transitions of care
+c. Provide patients on discharge with a current medicines list and the reasons for any changes",146
+148,,Medication management processes,Medication safety,,4
+149,,Information and decision support tools for medicines,Medication management processes,,148
+150,,4.13,Information and decision support tools for medicines,The health service organisation ensures that information and decision support tools for medicines are available to clinicians,149
+151,,Safe and secure storage and distribution of medicines,Medication management processes,,148
+152,,4.14,Safe and secure storage and distribution of medicines,"The health service organisation complies with manufacturers’ directions, legislation, and jurisdictional requirements for the:
+a. Safe and secure storage and distribution of medicines
+b. Storage of temperature-sensitive medicines and cold chain management
+c. Disposal of unused, unwanted or expired medicines",151
+153,,High-risk medicines,Medication management processes,,148
+154,,4.15,High-risk medicines,"The health service organisation:
+a. Identifies high-risk medicines used within the organisation
+b. Has a system to store, prescribe, dispense and administer high-risk medicines safely",153
+155,,Clinical governance and quality improvement to support comprehensive care,Comprehensive care,,7
+156,,Integrating clinical governance,Clinical governance and quality improvement to support comprehensive care,,155
+157,,5.1,Integrating clinical governance,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for comprehensive care
+b. Managing risks associated with comprehensive care
+c. Identifying training requirements to deliver comprehensive care",65
+158,,Applying quality improvement systems,Clinical governance and quality improvement to support comprehensive care,,155
+159,,5.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring the delivery of comprehensive care
+b. Implementing strategies to improve the outcomes from comprehensive care and associated processes
+c. Reporting on delivery of comprehensive care",67
+160,,Partnering with consumers,Clinical governance and quality improvement to support comprehensive care,,155
+161,,5.3,Partnering with consumers,"Clinicians use organisational processes from the Partnering with Consumers Standard when providing comprehensive care to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+162,,Designing systems to deliver comprehensive care,Clinical governance and quality improvement to support comprehensive care,,155
+163,,5.4,Designing systems to deliver comprehensive care,"The health service organisation has systems for comprehensive care that:
+a. Support clinicians to develop, document and communicate comprehensive plans for patients’ care and treatment
+b. Provide care to patients in the setting that best meets their clinical needs
+c. Ensure timely referral of patients with specialist healthcare needs to relevant services
+d. Identify, at all times, the clinician with overall accountability for a patient’s care",162
+164,,Collaboration and teamwork,Clinical governance and quality improvement to support comprehensive care,,155
+165,,5.5,Collaboration and teamwork,"The health service organisation has processes to:
+a. Support multidisciplinary collaboration and teamwork
+b. Define the roles and responsibilities of each clinician working in a team",164
+166,,5.6,Collaboration and teamwork,Clinicians work collaboratively to plan and deliver comprehensive care,164
+167,,Developing the comprehensive care plan,Comprehensive care,,7
+168,,Planning for comprehensive care,Developing the comprehensive care plan,,167
+169,,5.7,Planning for comprehensive care,"The health service organisation has processes relevant to the patients using the service and the services provided:
+a. For integrated and timely screening and assessment
+b. That identify the risks of harm in the ‘Minimising patient harm’ criterion",168
+170,,5.8,Planning for comprehensive care,"The health service organisation has processes to routinely ask patients if they identify as being of Aboriginal and/or Torres Strait Islander origin, and to record this information in administrative and clinical information systems",168
+171,,5.9,Planning for comprehensive care,Patients are supported to document clear advance care plans,168
+172,,Screening of risk,Developing the comprehensive care plan,,167
+173,,5.1,Screening of risk,"Clinicians use relevant screening processes:
+a. On presentation, during clinical examination and history taking, and when required during care
+b. To identify cognitive, behavioural, mental and physical conditions, issues, and risks of harm
+c. To identify social and other circumstances that may compound these risks",172
+174,,Clinical assessment,Developing the comprehensive care plan,,167
+175,,5.11,Clinical assessment,Clinicians comprehensively assess the conditions and risks identified through the screening process,174
+176,,Developing the comprehensive care plan,Developing the comprehensive care plan,,167
+177,,5.12,Developing the comprehensive care plan,"Clinicians document the findings of the screening and clinical assessment processes, including any relevant alerts, in the healthcare record",167
+178,,5.13,Developing the comprehensive care plan,"Clinicians use processes for shared decision making to develop and document a comprehensive and individualised plan that:
+a. Addresses the significance and complexity of the patient’s health issues and risks of harm
+b. Identifies agreed goals and actions for the patient’s treatment and care
+c. Identifies the support people a patient wants involved in communications and decision-making about their care
+d. Commences discharge planning at the beginning of the episode of care
+e. Includes a plan for referral to follow-up services, if appropriate and available
+f. Is consistent with best practice and evidence",167
+179,,Delivering comprehensive care,Comprehensive care,,7
+180,,Using the comprehensive care plan,Delivering comprehensive care,,179
+181,,5.14,Using the comprehensive care plan,"The workforce, patients, carers and families work in partnership to:
+a. Use the comprehensive care plan to deliver care
+b. Monitor the effectiveness of the comprehensive care plan in meeting the goals of care
+c. Review and update the comprehensive care plan if it is not effective
+d. Reassess the patient’s needs if changes in diagnosis, behaviour, cognition, or mental or physical condition occur",180
+182,,Comprehensive care at the end of life,Delivering comprehensive care,,179
+183,,5.15,Comprehensive care at the end of life,The health service organisation has processes to identify patients who are at the end of life that are consistent with the National Consensus Statement: Essential elements for safe and high-quality end-of-life care,182
+184,,5.16,Comprehensive care at the end of life,The health service organisation providing end-of-life care has processes to provide clinicians with access to specialist palliative care advice,182
+185,,5.17,Comprehensive care at the end of life,"The health service organisation has processes to ensure that current advance care plans:
+a. Can be received from patients
+b. Are documented in the patient’s healthcare record",182
+186,,5.18,Comprehensive care at the end of life,The health service organisation provides access to supervision and support for the workforce providing end-of-life care,182
+187,,5.19,Comprehensive care at the end of life,The health service organisation has processes for routinely reviewing the safety and quality of end-of-life care that is provided against the planned goals of care,182
+188,,5.2,Comprehensive care at the end of life,"Clinicians support patients, carers and families to make shared decisions about end-of-life care in accordance with the National Consensus Statement: Essential elements for safe and high-quality end-of-life care",182
+189,,Minimising patient harm,Comprehensive care,,7
+190,,Preventing and managing pressure injuries,Minimising patient harm,,189
+191,,5.21,Preventing and managing pressure injuries,The health service organisation providing services to patients at risk of pressure injuries has systems for pressure injury prevention and wound management that are consistent with best-practice guidelines,190
+192,,5.22,Preventing and managing pressure injuries,"Clinicians providing care to patients at risk of developing, or with, a pressure injury conduct comprehensive skin inspections in accordance with best-practice time frames and frequency",190
+193,,5.23,Preventing and managing pressure injuries,"The health service organisation providing services to patients at risk of pressure injuries ensures that:
+a. Patients, carers and families are provided with information about preventing pressure injuries
+b. Equipment, devices and products are used in line with best-practice guidelines to prevent and effectively manage pressure injuries",190
+194,,Preventing falls and harm from falls,Minimising patient harm,,189
+195,,5.24,Preventing falls and harm from falls,"The health service organisation providing services to patients at risk of falls has systems that are consistent with best-practice guidelines for:
+a. Falls prevention
+b. Minimising harm from falls
+c. Post-fall management",194
+196,,5.25,Preventing falls and harm from falls,"The health service organisation providing services to patients at risk of falls ensures that equipment, devices and tools are available to promote safe mobility and manage the risks of falls",194
+197,,5.26,Preventing falls and harm from falls,"Clinicians providing care to patients at risk of falls provide patients, carers and families with information about reducing falls risks and falls prevention strategies",194
+198,,Nutrition and hydration,Minimising patient harm,,189
+199,,5.27,Nutrition and hydration,The health service organisation that admits patients overnight has systems for the preparation and distribution of food and fluids that include nutrition care plans based on current evidence and best practice,198
+200,,5.28,Nutrition and hydration,"The workforce uses the systems for preparation and distribution of food and fluids to:
+a. Meet patients’ nutritional needs and requirements
+b. Monitor the nutritional care of patients at risk
+c. Identify, and provide access to, nutritional support for patients who cannot meet their nutritional requirements with food alone
+d. Support patients who require assistance with eating and drinking",198
+201,,Preventing delirium and managing cognitive impairment,Minimising patient harm,,189
+202,,5.29,Preventing delirium and managing cognitive impairment,"The health service organisation providing services to patients who have cognitive impairment or are at risk of developing delirium has a system for caring for patients with cognitive impairment to:
+a. Incorporate best-practice strategies for early recognition, prevention, treatment and management of cognitive impairment in the care plan, including the Delirium Clinical Care Standard, where relevant
+b. Manage the use of antipsychotics and other psychoactive medicines, in accordance with best practice and legislation",201
+203,,5.3,Preventing delirium and managing cognitive impairment,"Clinicians providing care to patients who have cognitive impairment or are at risk of developing delirium use the system for caring for patients with cognitive impairment to:
+a. Recognise, prevent, treat and manage cognitive impairment
+b. Collaborate with patients, carers and families to understand the patient and implement individualised strategies that minimise any anxiety or distress while they are receiving care",201
+204,,"Predicting, preventing and managing self-harm and suicide",Minimising patient harm,,189
+205,,5.31,"Predicting, preventing and managing self-harm and suicide","The health service organisation has systems to support collaboration with patients, carers and families to:
+a. Identify when a patient is at risk of self-harm
+b. Identify when a patient is at risk of suicide
+c. Safely and effectively respond to patients who are distressed, have thoughts of self-harm or suicide, or have self-harmed",204
+206,,5.32,"Predicting, preventing and managing self-harm and suicide","The health service organisation ensures that follow-up arrangements are developed, communicated and implemented for people who have harmed themselves or reported suicidal thoughts",204
+207,,"Predicting, preventing and managing aggression and violence",Minimising patient harm,,189
+208,,5.33,"Predicting, preventing and managing aggression and violence",The health service organisation has processes to identify and mitigate situations that may precipitate aggression,207
+209,,5.34,"Predicting, preventing and managing aggression and violence","The health service organisation has processes to support collaboration with patients, carers and families to:
+a. Identify patients at risk of becoming aggressive or violent
+b. Implement de-escalation strategies
+c. Safely manage aggression, and minimise harm to patients, carers, families and the workforce",207
+210,,Minimising restrictive practices: restraint,Minimising patient harm,,189
+211,,5.35,Minimising restrictive practices: restraint,"Where restraint is clinically necessary to prevent harm, the health service organisation has systems that:
+a. Minimise and, where possible, eliminate the use of restraint
+b. Govern the use of restraint in accordance with legislation
+c. Report use of restraint to the governing body",210
+212,,Minimising restrictive practices: seclusion,Minimising patient harm,,189
+213,,5.36,Minimising restrictive practices: seclusion,"Where seclusion is clinically necessary to prevent harm and is permitted under legislation, the health service organisation has systems that:
+a. Minimise and, where possible, eliminate the use of seclusion
+b. Govern the use of seclusion in accordance with legislation
+c. Report use of seclusion to the governing body",212
+214,,Clinical governance and quality improvement to support effective communication,Communicating for safety,,8
+215,,Integrating clinical governance ,Clinical governance and quality improvement to support effective communication,,214
+216,,6.1,Integrating clinical governance ,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures to support effective clinical communication
+b. Managing risks associated with clinical communication
+c. Identifying training requirements for effective and coordinated clinical communication",89
+217,,Applying quality improvement systems,Clinical governance and quality improvement to support effective communication,,214
+218,,6.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring the effectiveness of clinical communication and associated processes
+b. Implementing strategies to improve clinical communication and associated processes
+c. Reporting on the effectiveness and outcomes of clinical communication processes",67
+219,,Partnering with consumers,Clinical governance and quality improvement to support effective communication,,214
+220,,6.3,Partnering with consumers,"Clinicians use organisational processes from the Partnering with Consumers Standard to effectively communicate with patients, carers and families during high-risk situations to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+221,,Organisational processes to support effective communication,Clinical governance and quality improvement to support effective communication,,214
+222,,6.4,Organisational processes to support effective communication,"The health service organisation has clinical communications processes to support effective communication when:
+a. Identification and procedure matching should occur
+b. All or part of a patient’s care is transferred within the organisation, between multidisciplinary teams, between clinicians or between organisations; and on discharge
+c. Critical information about a patient’s care, including information on risks, emerges or changes",221
+223,,Correct identification and procedure matching,Communicating for safety,,8
+224,,Correct identification and procedure matching,Correct identification and procedure matching,,223
+225,,6.5,Correct identification and procedure matching,"The health service organisation:
+a. Defines approved identifiers for patients according to best-practice guidelines
+b. Requires at least three approved identifiers on registration and admission; when care, medication, therapy and other services are provided; and when clinical handover, transfer or discharge documentation is generated",223
+226,,6.6,Correct identification and procedure matching,"The health service organisation specifies the:
+a. Processes to correctly match patients to their care
+b. Information that should be documented about the process of correctly matching patients to their intended care",223
+227,,Communication at clinical handover,Communicating for safety,,8
+228,,Clinical handover,Communication at clinical handover,,227
+229,,6.7,Clinical handover,"The health service organisation, in collaboration with clinicians, defines the:
+a. Minimum information content to be communicated at clinical handover, based on best-practice guidelines
+b. Risks relevant to the service context and the particular needs of patients, carers and families
+c. Clinicians who are involved in the clinical handover",228
+230,,6.8,Clinical handover,"Clinicians use structured clinical handover processes that include:
+a. Preparing and scheduling clinical handover
+b. Having the relevant information at clinical handover
+c. Organising relevant clinicians and others to participate in clinical handover
+d. Being aware of the patient’s goals and preferences
+e. Supporting patients, carers and families to be involved in clinical handover, in accordance with the wishes of the patient
+f. Ensuring that clinical handover results in the transfer of responsibility and accountability for care",228
+231,,Communication of critical information,Communicating for safety,,8
+232,,Communicating critical information,Communication of critical information,,231
+233,,6.9,Communicating critical information,"Clinicians and multidisciplinary teams use clinical communication processes to effectively communicate critical information, alerts and risks, in a timely way, when they emerge or change to:
+a. Clinicians who can make decisions about care
+b. Patients, carers and families, in accordance with the wishes of the patient",232
+234,,6.1,Communicating critical information,"The health service organisation ensures that there are communication processes for patients, carers and families to directly communicate critical information and risks about care to clinicians",232
+235,,Documentation of information,Communicating for safety,,8
+236,,Documentation of information,Documentation of information,,235
+237,,6.11,Documentation of information,"The health service organisation has processes to contemporaneously document information in the healthcare record, including:
+a. Critical information, alerts and risks
+b. Reassessment processes and outcomes
+c. Changes to the care plan",235
+238,,Clinical governance and quality improvement to support blood management,Blood management,,3
+239,,Integrating clinical governance ,Clinical governance and quality improvement to support blood management,,238
+240,,7.1,Integrating clinical governance ,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for blood management
+b. Managing risks associated with blood management
+c. Identifying training requirements for blood management",89
+241,,Applying quality improvement systems,Clinical governance and quality improvement to support blood management,,238
+242,,7.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring the performance of the blood management system
+b. Implementing strategies to improve blood management and associated processes
+c. Reporting on the outcomes of blood management",67
+243,,Partnering with consumers,Clinical governance and quality improvement to support blood management,,238
+244,,7.3,Partnering with consumers,"Clinicians use organisational processes from the Partnering with Consumers Standard when providing safe blood management to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+245,,Prescribing and clinical use of blood and blood products,Blood management,,3
+246,,Optimising and conserving patients’ own blood,Prescribing and clinical use of blood and blood products,,245
+247,,7.4,Optimising and conserving patients’ own blood,"Clinicians use the blood and blood products processes to manage the need for, and minimise the inappropriate use of, blood and blood products by:
+a. Optimising patients’ own red cell mass, haemoglobin and iron stores
+b. Identifying and managing patients with, or at risk of, bleeding
+c. Determining the clinical need for blood and blood products, and related risks",246
+248,,Documenting,Prescribing and clinical use of blood and blood products,,245
+249,,7.5,Documenting,"Clinicians document decisions relating to blood management, transfusion history and transfusion details in the healthcare record",248
+250,,Prescribing and administering blood and blood products,Prescribing and clinical use of blood and blood products,,245
+251,,7.6,Prescribing and administering blood and blood products,"The health service organisation supports clinicians to prescribe and administer blood and blood products appropriately, in accordance with national guidelines and national criteria",250
+252,,Reporting adverse events,Prescribing and clinical use of blood and blood products,,245
+253,,7.7,Reporting adverse events,"The health service organisation uses processes for reporting transfusionrelated adverse events, in accordance with national guidelines and criteria",252
+254,,7.8,Reporting adverse events,"The health service organisation participates in haemovigilance activities, in accordance with the national framework",252
+255,,Managing the availability and safety of blood and blood products,Blood management,,3
+256,,"Storing, distributing and tracing blood and blood products",Managing the availability and safety of blood and blood products,,255
+257,,7.9,"Storing, distributing and tracing blood and blood products","The health service organisation has processes:
+a. That comply with manufacturers’ directions, legislation, and relevant jurisdictional requirements to store, distribute and handle blood and blood products safely and securely
+b. To trace blood and blood products from entry into the organisation to transfusion, discard or transfer",256
+258,,Availability of blood,Managing the availability and safety of blood and blood products,,255
+259,,7.1,Availability of blood,"The health service organisation has processes to:
+a. Manage the availability of blood and blood products to meet clinical need
+b. Eliminate avoidable wastage
+c. Respond in times of shortage",258
+260,,Clinical governance and quality improvement to support recognition and response systems,Recognising and responding to acute deterioration,,6
+261,,Integrating clinical governance,Clinical governance and quality improvement to support recognition and response systems,,260
+262,,8.1,Integrating clinical governance,"Clinicians use the safety and quality systems from the Clinical Governance Standard when:
+a. Implementing policies and procedures for recognising and responding to acute deterioration
+b. Managing risks associated with recognising and responding to acute deterioration
+c. Identifying training requirements for recognising and responding to acute deterioration",65
+263,,Applying quality improvement systems,Clinical governance and quality improvement to support recognition and response systems,,260
+264,,8.2,Applying quality improvement systems,"The health service organisation applies the quality improvement system from the Clinical Governance Standard when:
+a. Monitoring recognition and response systems
+b. Implementing strategies to improve recognition and response systems
+c. Reporting on effectiveness and outcomes of recognition and response systems",67
+265,,Partnering with consumers,Clinical governance and quality improvement to support recognition and response systems,,260
+266,,8.3,Partnering with consumers,"Clinicians use organisational processes from the Partnering with Consumers Standard when recognising and responding to acute deterioration to:
+a. Actively involve patients in their own care
+b. Meet the patient’s information needs
+c. Share decision-making",9
+267,,"Detecting and recognising acute deterioration, and escalating care",Recognising and responding to acute deterioration,,6
+268,,Recognising acute deterioration,"Detecting and recognising acute deterioration, and escalating care",,267
+269,,8.4,Recognising acute deterioration,"The health service organisation has processes for clinicians to detect acute physiological deterioration that require clinicians to:
+a. Document individualised vital sign monitoring plans
+b. Monitor patients as required by their individualised monitoring plan
+c. Graphically document and track changes in agreed observations to detect acute deterioration over time, as appropriate for the patient",268
+270,,8.5,Recognising acute deterioration,"The health service organisation has processes for clinicians to recognise acute deterioration in mental state that require clinicians to:
+a. Monitor patients at risk of acute deterioration in mental state, including
+patients at risk of developing delirium
+b. Include the person’s known early warning signs of deterioration in mental state in their individualised monitoring plan
+c. Assess possible causes of acute deterioration in mental state, including delirium, when changes in behaviour, cognitive function, perception, physical function or emotional state are observed or reported
+d. Determine the required level of observation
+e. Document and communicate observed or reported changes in mental state",268
+271,,Escalating care,"Detecting and recognising acute deterioration, and escalating care",,267
+272,,8.6,Escalating care,"The health service organisation has protocols that specify criteria for escalating care, including:
+a. Agreed vital sign parameters and other indicators of physiological deterioration
+b. Agreed indicators of deterioration in mental state
+c. Agreed parameters and other indicators for calling emergency assistance
+d. Patient pain or distress that is not able to be managed using available treatment
+e. Worry or concern in members of the workforce, patients, carers and families about acute deterioration",271
+273,,8.7,Escalating care,"The health service organisation has processes for patients, carers or families to directly escalate care",271
+274,,8.8,Escalating care,The health service organisation provides the workforce with mechanisms to escalate care and call for emergency assistance,271
+275,,8.9,Escalating care,The workforce uses the recognition and response systems to escalate care,271
+276,,Responding to acute deterioration,Recognising and responding to acute deterioration,,6
+277,,Responding to deterioration,Responding to acute deterioration,,276
+278,,8.1,Responding to deterioration,The health service organisation has processes that support timely response by clinicians with the skills required to manage episodes of acute deterioration,277
+279,,8.11,Responding to deterioration,"The health service organisation has processes to ensure rapid access at all times to at least one clinician, either on site or in close proximity, who can deliver advanced life support",277
+280,,8.12,Responding to deterioration,The health service organisation has processes to ensure rapid referral to mental health services to meet the needs of patients whose mental state has acutely deteriorated,277
+281,,8.13,Responding to deterioration,The health service organisation has processes for rapid referral to services that can provide definitive management of acute physical deterioration,277
